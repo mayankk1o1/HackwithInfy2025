@@ -1,3 +1,6 @@
+#leetcode 2706
+#link - https://leetcode.com/problems/buy-two-chocolates/
+
 def buy_chocolates(prices, money):
     min1 = float('inf')
     min2 = float('inf')
